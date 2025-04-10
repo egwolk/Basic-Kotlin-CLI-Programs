@@ -1,6 +1,7 @@
 //program that allows user to input 2 numbers and program will display sum, difference, product, quotient, and remainder of the 2 numbers.
+package prog1_Operators
 import java.text.DecimalFormat
-const val UNDEFINED = "UNDEFINED"
+private const val UNDEFINED = "UNDEFINED"
 fun main() {
     while (true) {
         val n1 = isDouble("Enter 1st number: ")
@@ -11,13 +12,12 @@ fun main() {
         val quo = getQuo(n1, n2)
         val mod = getMod(n1, n2)
 
-        println()
         println("$clN1 + $clN2 = ${numFormat(getSum(n1, n2))}")
-        println("$clN1 - $clN2 =  ${numFormat(getDif(n1, n2))}")
-        println("$clN1 * $clN2 =  ${numFormat(getPro(n1, n2))}")
-        println("$clN1 / $clN2 =  ${quo?.let {numFormat(it)} ?: UNDEFINED}")
-        println("$clN1 % $clN2 =  ${mod?.let {numFormat(it)} ?: UNDEFINED}")
-        println()
+        println("$clN1 - $clN2 = ${numFormat(getDif(n1, n2))}")
+        println("$clN1 * $clN2 = ${numFormat(getPro(n1, n2))}")
+        println("$clN1 / $clN2 = ${quo?.let {numFormat(it)} ?: UNDEFINED}")
+        println("$clN1 % $clN2 = ${mod?.let {numFormat(it)} ?: UNDEFINED}")
+
         val res :Char = restart("Start again? [Y] Yes | [N] No:")
         if (!res.equals('y',true)) {
             println("Goodbye!")
@@ -30,7 +30,7 @@ fun restart(prompt: String):Char { // for program restart
     do {
         print(prompt)
         val uIn = readln().lowercase()
-        if (uIn.length != 1 || !(uIn.equals("y",true) ||uIn.equals("n",true)) ) println("Invalid input.") else c = uIn[0]
+        if (uIn.length != 1 || !(uIn.equals("y",true) ||uIn.equals("n",true))) println("Invalid input.") else c = uIn[0]
     }while(c==null)
     return c
 }
