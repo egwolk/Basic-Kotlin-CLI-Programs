@@ -1,0 +1,2 @@
+java -jar out/artifacts/Prog3_PositiveOrNegative_jar/Prog3_PositiveOrNegative.jar
+pause

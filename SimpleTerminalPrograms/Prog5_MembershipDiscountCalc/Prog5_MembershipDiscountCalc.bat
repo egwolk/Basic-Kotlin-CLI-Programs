@@ -1,0 +1,2 @@
+java -jar out/artifacts/Prog5_MembershipDiscountCalc_jar/Prog5_MembershipDiscountCalc.jar
+pause
