@@ -5,5 +5,5 @@ if %ERRORLEVEL% neq 0 (
     pause
     exit /b
 )
-java -jar out/artifacts/Prog3_PositiveOrNegative_jar/Prog3_PositiveOrNegative.jar
+java -jar out/artifacts/Prog1_OperatorsV2_jar/Prog1_OperatorsV2.jar
 pause
