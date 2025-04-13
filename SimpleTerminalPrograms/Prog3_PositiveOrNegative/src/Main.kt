@@ -9,11 +9,31 @@ fun main() {
     }
 }
 
+fun cls() { //to clear console. *doesn't work on IDE consoles
+    try {
+        val process = ProcessBuilder("cmd", "/c", "cls").inheritIO().start()
+        process.waitFor()
+    } catch (e: Exception) {
+        try {
+            val process = ProcessBuilder("clear").inheritIO().start()
+            process.waitFor()
+        }catch (ex: Exception) {
+            print("")
+        }
+    }
+}
+
 fun inputValidation(prompt: String): Double {
     do {
         print(prompt)
         val userInput :Double? = readln().toDoubleOrNull()
-        if (userInput == null) println("Invalid input. Please enter a number.") else return userInput
+        if (userInput == null) {
+            cls()
+            println("Invalid input. Please enter a number.")
+        } else {
+            cls()
+            return userInput
+        }
     }while (true)
 }
 

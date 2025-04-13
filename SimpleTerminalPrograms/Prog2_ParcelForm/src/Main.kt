@@ -15,14 +15,30 @@ fun main() {
     println("Thank you! Your delivery details have been successfully recorded.")
 }
 
+
+fun cls() { //to clear console. *doesn't work on IDE consoles
+    try {
+        val process = ProcessBuilder("cmd", "/c", "cls").inheritIO().start()
+        process.waitFor()
+    } catch (e: Exception) {
+        try {
+            val process = ProcessBuilder("clear").inheritIO().start()
+            process.waitFor()
+        }catch (ex: Exception) {
+            print("")
+        }
+    }
+}
+
 fun getValidStringInput(prompt: String): String {
     var input: String
     do {
         print(prompt)
         input = readln().trim()
         if (input.isEmpty()) {
+            cls()
             println("Invalid input. Please try again.")
-        }
+        }else cls()
     } while (input.isEmpty())
     return input
 }
@@ -32,8 +48,12 @@ fun getValidIntInput(prompt: String): Int {
         print(prompt)
         val input = readln().toIntOrNull()
         if (input != null) {
+            cls()
             return input
-        }else println("Invalid input. Please enter a valid number.")
+        }else {
+            cls()
+            println("Invalid input. Please enter a valid number.")
+        }
     } while (true)
 }
 

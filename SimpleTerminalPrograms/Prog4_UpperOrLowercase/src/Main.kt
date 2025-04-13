@@ -19,6 +19,20 @@ fun main() {
 
 }
 
+fun cls() { //to clear console. *doesn't work on IDE consoles
+    try {
+        val process = ProcessBuilder("cmd", "/c", "cls").inheritIO().start()
+        process.waitFor()
+    } catch (e: Exception) {
+        try {
+            val process = ProcessBuilder("clear").inheritIO().start()
+            process.waitFor()
+        }catch (ex: Exception) {
+            print("")
+        }
+    }
+}
+
 fun isALetter(prompt: String) :Char {
     do {
         print(prompt)
@@ -26,8 +40,12 @@ fun isALetter(prompt: String) :Char {
 
         //this way is for explicitly only accepting English alphabet letters
         if (userIn.length != 1 || !Regex("(?i)[a-z]").matches(userIn)) { //(?i) indicates case-insensitivity. alternative: [a-zA-Z]
+            cls()
             println("Invalid input. Try again.")
-        } else return userIn[0]
+        } else {
+            cls()
+            return userIn[0]
+        }
 
         // another way but with the built-in method. This can be used if you want to include letters beyond the English alphabet
         /*
