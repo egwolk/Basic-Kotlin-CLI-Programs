@@ -17,8 +17,8 @@ fun main() {
         println("$clN1 / $clN2 = ${quo?.let {numFormat(it)} ?: UNDEFINED}")
         println("$clN1 % $clN2 = ${mod?.let {numFormat(it)} ?: UNDEFINED}")
 
-        print("Press any key to continue...")
-        System.console()?.reader()?.read() //to handle key press *aside [Enter] key, doesn't work with IDE console
+        print("Press any key to continue...")//This is for cmd/bash interface. Press enter when running on IDE.
+        System.console()?.reader()?.read() 
         cls()
         val res :Char = restart("Start again? [Y] Yes | [N] No: ")
         if (!res.equals('y',true)) {

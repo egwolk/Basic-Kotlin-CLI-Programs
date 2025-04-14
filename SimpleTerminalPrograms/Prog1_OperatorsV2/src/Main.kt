@@ -26,7 +26,7 @@ fun main() {
             '%' -> {val mod = getMod(n1, n2)
                 println("$clN1 % $clN2 =  ${mod?.let {numFormat(it)} ?: UNDEFINED}")}
         }
-        print("Press any key to continue...")
+        print("Press any key to continue...") //This is for cmd/bash interface. Press enter when running on IDE. 
         System.console()?.reader()?.read()
         cls()
         val res :Char = restart("Start again? [Y] Yes | [N] No: ")
