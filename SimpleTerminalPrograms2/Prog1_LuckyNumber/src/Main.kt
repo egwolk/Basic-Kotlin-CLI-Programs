@@ -1,3 +1,4 @@
+//simple guess the lucky number game... the lucky number is the last number of the ID
 fun main() {
     val id = idValidate("Enter your ID number: ")
     val luck = isLucky("Guess the lucky number: ", id)
