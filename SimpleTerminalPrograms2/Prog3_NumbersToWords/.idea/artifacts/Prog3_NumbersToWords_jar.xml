@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Prog3_NumbersToWords:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Prog3_NumbersToWords_jar</output-path>
+    <root id="archive" name="Prog3_NumbersToWords.jar">
+      <element id="module-output" name="Prog3_NumbersToWords" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/2.1.10/kotlin-stdlib-2.1.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -19,8 +19,9 @@ fun main() {
     val acc = accommodate("How many would you like to accommodate? : ")
     val pay = travelCost(pack, acc)
     println("Your total is: $${numFormat(pay)}")
-    print("Press any key to continue...") //This is for cmd/bash interface. Press enter when running on IDE.
-    System.console()?.reader()?.read()
+    print("Press enter to continue...")
+    readln()
+    cls()
     val credit = isYes("Would You like to pay via credit? [Y]Yes | [N]No: ")
     var install = 'n'
     var monthly = 0.00
@@ -57,14 +58,14 @@ fun displayGreeting(fn: String, ln: String) {
         Hello, $fn $ln!
         Thank you for choosing Kotlin Travel Tours to partner up with you and your vacation endeavors!
     """.trimIndent())
-    print("Press any key to continue...") //This is for cmd/bash interface. Press enter when running on IDE.
-    System.console()?.reader()?.read()
+    print("Press enter to continue...")
+    readln()
     cls()
 }
 fun choosePackage(prompt: String) :Char {
     do {
         print(prompt)
-        val uIn = readln().lowercase().trim()
+        val uIn = readln().lowercase()
         when {
             uIn.length > 1 -> {
                 cls()
@@ -84,7 +85,7 @@ fun choosePackage(prompt: String) :Char {
 fun accommodate(prompt: String) :Int {
     do {
         print(prompt)
-        val uIn = readln().toIntOrNull()
+        val uIn = readln().replace(",","").toIntOrNull()
         if (uIn == null || uIn == 0) {
             cls()
             println("Invalid Input.")
@@ -104,7 +105,7 @@ fun travelCost(pack: Char, qty: Int) :Double {
 fun isYes(prompt: String) :Char {
     do {
         print(prompt)
-        val uIn = readln().lowercase().trim()
+        val uIn = readln().lowercase()
         when {
             uIn.length > 1 -> {
                 cls()

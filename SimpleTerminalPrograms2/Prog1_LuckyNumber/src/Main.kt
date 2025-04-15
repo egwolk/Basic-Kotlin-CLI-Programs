@@ -22,7 +22,7 @@ fun isLucky(prompt: String, id: Int) :String {
     var tries = 0
     do {
         print(prompt)
-        val uIn = readln().toIntOrNull()
+        val uIn = readln().replace(",","").toIntOrNull()
         if (uIn == null) {
             cls()
             println("Error: Invalid Input! Please try again.")

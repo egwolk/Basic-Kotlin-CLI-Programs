@@ -26,7 +26,7 @@ fun cls() { //to clear console. *doesn't work on IDE consoles
 fun inputValidation(prompt: String): Double {
     do {
         print(prompt)
-        val userInput :Double? = readln().toDoubleOrNull()
+        val userInput :Double? = readln().replace(",","").toDoubleOrNull()
         if (userInput == null) {
             cls()
             println("Invalid input. Please enter a number.")
