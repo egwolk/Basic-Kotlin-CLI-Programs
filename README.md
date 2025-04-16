@@ -4,18 +4,18 @@ Simple terminal programs I built for learning Kotlin. This repository contains v
 
 ## Table of Contents
 ### SimpleTerminalPrograms
-- [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators/README.md)
-- [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2/README.md)
-- [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm/README.md)
-- [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative/README.md)
-- [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase/README.md)
-- [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc/README.md)
-- [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage/README.md)
+- [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators)
+- [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2)
+- [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm)
+- [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative)
+- [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase)
+- [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc)
+- [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage)
 
 ### SimpleTerminalPrograms2
-- [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber/README.md)
-- [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek/README.md)
-- [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords/README.md)
+- [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber)
+- [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek)
+- [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords)
 
 ---
 
