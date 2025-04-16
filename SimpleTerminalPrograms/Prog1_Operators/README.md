@@ -43,14 +43,13 @@ It features user-friendly input validation and provides clear, formatted outputs
 5 % 3 = 2
 ```
 
+---
 ## **Technologies Used**
 - **Language**: Kotlin
 - **IDE**: IntelliJ IDEA (or other compatible IDEs)
 
----
 ## License
 This project is licensed under the [MIT License](../../LICENSE).
 
----
 ## **Author**
 Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
