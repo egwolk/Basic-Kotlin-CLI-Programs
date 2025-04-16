@@ -1,4 +1,4 @@
-# **Parcel Delivery Form Program**
+# **Prog2_ParcelForm (Parcel Delivery Form Program)**
 
 ## **Description**
 This simple form program collects delivery details from the user, including their name and address, and displays the entered information in a clear and structured format. It provides a user-friendly interface with validation to ensure all inputs are valid.
