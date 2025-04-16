@@ -42,10 +42,13 @@ Your parcel will be delivered at: #123 Maple St. Evergreen Village, Tuguegarao C
 Thank you! Your delivery details have been successfully recorded.
 ```
 
+---
 ## **Technologies Used**
 - **Language**: Kotlin
 - **IDE**: IntelliJ IDEA (or other compatible IDEs)
 
----
+## License
+This project is licensed under the [MIT License](../../LICENSE).
+
 ## **Author**
 Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
