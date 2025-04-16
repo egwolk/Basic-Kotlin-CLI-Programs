@@ -1,4 +1,4 @@
-# **Travel Package Selection Program**
+# **Prog6_TravelTourPackage (Travel Package Selection)**
 
 ## **Description**
 This program allows users to choose from a variety of travel packages offered by Kotlin Travel Tours. It calculates the total cost based on the selected package and the number of guests. It also offers flexible payment options, including credit and installment plans for larger amounts.
