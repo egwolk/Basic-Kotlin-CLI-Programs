@@ -1,4 +1,4 @@
-# **Prog3_PositiveOrNegative (Number Classification Program)**
+# **Prog3_PositiveOrNegative (Number Classification)**
 
 ## **Description**
 This program allows the user to input a number and determines whether the number is:
