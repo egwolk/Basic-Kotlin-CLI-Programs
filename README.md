@@ -2,6 +2,9 @@
 
 Simple terminal programs I built for learning Kotlin. This repository contains various Kotlin programs, organized into folders. Click the links below to explore each program.
 
+## How to Use
+Click the program name to navigate to its respective directory and learn more about its functionality.
+
 ## Table of Contents
 ### SimpleTerminalPrograms
 - [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) (Calulator)
@@ -18,9 +21,6 @@ Simple terminal programs I built for learning Kotlin. This repository contains v
 - [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords)
 
 ---
-
-## How to Use
-Click the program name to navigate to its respective directory and learn more about its functionality.
 
 ## **Technologies Used**
 - **Language**: Kotlin
