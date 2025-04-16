@@ -1,4 +1,4 @@
-# **Prog4_UpperOrLowercase (Letter Case Detection Program)**
+# **Prog4_UpperOrLowercase (Letter Case Detection)**
 
 ## **Description**
 This program determines whether the user-inputted letter from the English alphabet is:
