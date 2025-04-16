@@ -18,7 +18,7 @@ Click the program name to navigate to its respective directory and learn more ab
 ### SimpleTerminalPrograms2
 - [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) (Guess the Lucky Number Game)
 - [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek) (Day of the Week)
-- [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords)
+- [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords) (Number to Words Converter)
 
 ---
 
