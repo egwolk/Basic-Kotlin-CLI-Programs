@@ -54,10 +54,13 @@ Enter one letter: `3`
 Invalid input. Try again.
 ```
 
+---
 ## **Technologies Used**
 - **Language**: Kotlin
 - **IDE**: IntelliJ IDEA (or other compatible IDEs)
 
----
+## License
+This project is licensed under the [MIT License](../../LICENSE).
+
 ## **Author**
-Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))
+Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
