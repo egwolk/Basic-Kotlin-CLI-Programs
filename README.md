@@ -7,24 +7,24 @@ Click the program name to navigate to its respective directory and learn more ab
 
 ## Table of Contents
 <details>
-  <summary><h3>SimpleCLIPrograms</h3></summary>
+  <summary><h3>Simple-CLI-Programs</h3></summary>
 
-  - [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) *(Calculator)*
-  - [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2) *(Calculator: Version 2)*
-  - [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm) *(Parcel Delivery Form)*
-  - [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative) *(Number Classification)*
-  - [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase) *(Letter Case Detection)*
-  - [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc) *(Supermarket Checkout)*
-  - [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage) *(Travel Package Selection)*
+  - [Prog1_Operators](Simple-CLI-Programs/Prog1_Operators) *(Calculator)*
+  - [Prog1_OperatorsV2](Simple-CLI-Programs/Prog1_OperatorsV2) *(Calculator: Version 2)*
+  - [Prog2_ParcelForm](Simple-CLI-Programs/Prog2_ParcelForm) *(Parcel Delivery Form)*
+  - [Prog3_PositiveOrNegative](Simple-CLI-Programs/Prog3_PositiveOrNegative) *(Number Classification)*
+  - [Prog4_UpperOrLowercase](Simple-CLI-Programs/Prog4_UpperOrLowercase) *(Letter Case Detection)*
+  - [Prog5_MembershipDiscountCalc](Simple-CLI-Programs/Prog5_MembershipDiscountCalc) *(Supermarket Checkout)*
+  - [Prog6_TravelTourPackage](Simple-CLI-Programs/Prog6_TravelTourPackage) *(Travel Package Selection)*
 
 </details>
 
 <details>
-  <summary><h3>SimpleCLIPrograms2</h3></summary>
+  <summary><h3>Simple-CLI-Programs2</h3></summary>
 
-  - [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) *(Guess the Lucky Number Game)*
-  - [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek) *(Day of the Week)*
-  - [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords) *(Number to Words Converter)*
+  - [Prog1_LuckyNumber](Simple-CLI-Programs2/Prog1_LuckyNumber) *(Guess the Lucky Number Game)*
+  - [Prog2_SevenDaysOfWeek](Simple-CLI-Programs2/Prog2_SevenDaysOfWeek) *(Day of the Week)*
+  - [Prog3_NumbersToWords](Simple-CLI-Programs2/Prog3_NumbersToWords) *(Number to Words Converter)*
 
 </details>
 
