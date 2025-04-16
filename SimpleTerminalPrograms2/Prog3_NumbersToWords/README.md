@@ -1,4 +1,4 @@
-# **Number to Words Converter**
+# **Prog3_NumbersToWords (Number to Words Converter)**
 
 ## **Description**
 This program converts positive whole numbers (0-9,999) into their word representations. Users can either input a specific number to convert or view all numbers from 0 to 9,999 along with their word equivalents. It also includes interactive options for navigating and exiting the program.
