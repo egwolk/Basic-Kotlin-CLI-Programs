@@ -49,3 +49,11 @@ The program continues to run until the user decides to exit.
 ```plaintext
 10 / 0 = UNDEFINED
 ```
+## **Technologies Used**
+- **Language**: Kotlin
+- **IDE**: IntelliJ IDEA (or other compatible IDEs)
+
+---
+## **Author**
+
+Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
