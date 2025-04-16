@@ -1,4 +1,4 @@
-# **Prog1_OperatorsV2 (Calculator Program: Version 2)**
+# **Prog1_OperatorsV2 (Calculator: Version 2)**
 
 ## **Description**
 This is an enhanced version of the first program. It allows the user to input two numbers and then choose a specific arithmetic operation to perform. The program computes and displays one of the following based on the user's choice:
