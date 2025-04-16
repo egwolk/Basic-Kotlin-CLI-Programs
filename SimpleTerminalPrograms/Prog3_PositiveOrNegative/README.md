@@ -36,6 +36,7 @@ The program includes input validation to ensure users enter valid numerical valu
 ```
 
 ## **Another Example**
+### **Input**:
 - Enter a number: `-3.14`
 
 ### **Output**:
@@ -44,6 +45,7 @@ The program includes input validation to ensure users enter valid numerical valu
 ```
 
 ## **Edge Case**
+### **Input**:
 Enter a number: `0`
 
 ### **Output**:
