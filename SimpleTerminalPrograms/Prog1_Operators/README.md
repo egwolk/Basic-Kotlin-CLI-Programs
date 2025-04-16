@@ -47,6 +47,6 @@ It features user-friendly input validation and provides clear, formatted outputs
 - **Language**: Kotlin
 - **IDE**: IntelliJ IDEA (or other compatible IDEs)
 
+---
 ## **Author**
-Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
-made with pure hatred 💗
+Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
