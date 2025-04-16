@@ -49,7 +49,7 @@ It features user-friendly input validation and provides clear, formatted outputs
 
 ---
 ## License
-This project is licensed under the [MIT License](../../LICENSE.md).
+This project is licensed under the [MIT License](../../LICENSE).
 
 ---
 ## **Author**
