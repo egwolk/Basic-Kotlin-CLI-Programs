@@ -1,4 +1,4 @@
-# **Supermarket Checkout Program**
+# **Prog5_MembershipDiscountCalc (Supermarket Checkout Program**
 
 ## **Description**
 This program simulates a supermarket checkout system. It calculates the user's final purchase total based on the input amount and applies discounts if applicable:
