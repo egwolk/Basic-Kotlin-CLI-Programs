@@ -53,10 +53,13 @@ Enter a number: `0`
 0 is neither a positive nor a negative number.
 ```
 
+---
 ## **Technologies Used**
 - **Language**: Kotlin
 - **IDE**: IntelliJ IDEA (or other compatible IDEs)
 
----
+## License
+This project is licensed under the [MIT License](../../LICENSE).
+
 ## **Author**
-Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))
+Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
