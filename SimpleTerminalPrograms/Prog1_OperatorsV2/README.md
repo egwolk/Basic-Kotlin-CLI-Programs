@@ -55,5 +55,4 @@ The program continues to run until the user decides to exit.
 
 ---
 ## **Author**
-
 Made with 💗 by Erin (GitHub: [@egwolk](https://github.com/ewgolk))  
