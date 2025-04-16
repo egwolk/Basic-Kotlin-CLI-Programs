@@ -1,4 +1,4 @@
-# **Calculator Program**
+# **Prog1_Operators (Calculator Program)**
 
 ## **Description**
 This program allows the user to input two numbers and computes their:
