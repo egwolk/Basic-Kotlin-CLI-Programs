@@ -1,4 +1,4 @@
-# **Guess the Lucky Number Game**
+# **Prog1_LuckyNumber (Guess the Lucky Number Game)**
 
 ## **Description**
 This fun program challenges the user to guess a "lucky number," which is calculated as the last digit of the user's entered ID number. It provides feedback for each guess and tells the user how many attempts it took to guess correctly.
