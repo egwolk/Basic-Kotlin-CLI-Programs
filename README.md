@@ -11,7 +11,7 @@ Click the program name to navigate to its respective directory and learn more ab
 - [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2) (Calculator)
 - [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm) (Parcel Delivery Form)
 - [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative) (Number Classification)
-- [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase)
+- [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase) (Letter Case Detection)
 - [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc)
 - [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage)
 
