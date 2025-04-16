@@ -16,7 +16,7 @@ Click the program name to navigate to its respective directory and learn more ab
 - [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage) (Travel Package Selection)
 
 ### SimpleTerminalPrograms2
-- [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber)
+- [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) (Guess the Lucky Number Game)
 - [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek)
 - [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords)
 
