@@ -4,7 +4,7 @@ Simple terminal programs I built for learning Kotlin. This repository contains v
 
 ## Table of Contents
 ### SimpleTerminalPrograms
-- [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators)
+- [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) (Calulator)
 - [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2)
 - [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm)
 - [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative)
