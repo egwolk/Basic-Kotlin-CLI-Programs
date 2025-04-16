@@ -6,19 +6,28 @@ Simple terminal programs I built for learning Kotlin. This repository contains v
 Click the program name to navigate to its respective directory and learn more about its functionality.
 
 ## Table of Contents
-### SimpleTerminalPrograms
-- [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) (Calulator)
-- [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2) (Calculator: Version2)
-- [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm) (Parcel Delivery Form)
-- [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative) (Number Classification)
-- [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase) (Letter Case Detection)
-- [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc) (Supermarket Checkout)
-- [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage) (Travel Package Selection)
+<details>
+  <summary><h3>SimpleTerminalPrograms</h3></summary>
 
-### SimpleTerminalPrograms2
-- [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) (Guess the Lucky Number Game)
-- [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek) (Day of the Week)
-- [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords) (Number to Words Converter)
+  - [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) *(Calculator)*
+  - [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2) *(Calculator: Version 2)*
+  - [Prog2_ParcelForm](SimpleTerminalPrograms/Prog2_ParcelForm) *(Parcel Delivery Form)*
+  - [Prog3_PositiveOrNegative](SimpleTerminalPrograms/Prog3_PositiveOrNegative) *(Number Classification)*
+  - [Prog4_UpperOrLowercase](SimpleTerminalPrograms/Prog4_UpperOrLowercase) *(Letter Case Detection)*
+  - [Prog5_MembershipDiscountCalc](SimpleTerminalPrograms/Prog5_MembershipDiscountCalc) *(Supermarket Checkout)*
+  - [Prog6_TravelTourPackage](SimpleTerminalPrograms/Prog6_TravelTourPackage) *(Travel Package Selection)*
+
+</details>
+
+<details>
+  <summary><h3>SimpleTerminalPrograms2</h3></summary>
+
+  - [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) *(Guess the Lucky Number Game)*
+  - [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek) *(Day of the Week)*
+  - [Prog3_NumbersToWords](SimpleTerminalPrograms2/Prog3_NumbersToWords) *(Number to Words Converter)*
+
+</details>
+
 
 ---
 
