@@ -1,13 +1,13 @@
-# Basic Kotlin Terminal Programs
+# Basic Kotlin CLI Programs
 
-Simple terminal programs I built for learning Kotlin. This repository contains various Kotlin programs, organized into folders. Click the links below to explore each program.
+Simple CLI programs I built for learning Kotlin. This repository contains various Kotlin programs, organized into folders. Click the links below to explore each program.
 
 ## How to Use
 Click the program name to navigate to its respective directory and learn more about its functionality.
 
 ## Table of Contents
 <details>
-  <summary><h3>SimpleTerminalPrograms</h3></summary>
+  <summary><h3>SimpleCLIPrograms</h3></summary>
 
   - [Prog1_Operators](SimpleTerminalPrograms/Prog1_Operators) *(Calculator)*
   - [Prog1_OperatorsV2](SimpleTerminalPrograms/Prog1_OperatorsV2) *(Calculator: Version 2)*
@@ -20,7 +20,7 @@ Click the program name to navigate to its respective directory and learn more ab
 </details>
 
 <details>
-  <summary><h3>SimpleTerminalPrograms2</h3></summary>
+  <summary><h3>SimpleCLIPrograms2</h3></summary>
 
   - [Prog1_LuckyNumber](SimpleTerminalPrograms2/Prog1_LuckyNumber) *(Guess the Lucky Number Game)*
   - [Prog2_SevenDaysOfWeek](SimpleTerminalPrograms2/Prog2_SevenDaysOfWeek) *(Day of the Week)*
