@@ -1,4 +1,4 @@
-# **Day of the Week Program**
+# **Prog2_SevenDaysOfWeek (Day of the Week)**
 
 ## **Description**
 This program allows the user to input a number (from 1 to 7) and returns the corresponding day of the week based on the standard format where:
