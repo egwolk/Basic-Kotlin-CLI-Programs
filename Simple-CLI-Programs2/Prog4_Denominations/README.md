@@ -1,4 +1,4 @@
-# **Money Denominations Program**
+# **Prog4_Denominations (Money Denominations)**
 
 ## **Description**
 This program calculates the denominations of a given amount of money in various currency values. It offers a user-friendly interface to input amounts and displays the breakdown of denominations along with their totals for validation.
