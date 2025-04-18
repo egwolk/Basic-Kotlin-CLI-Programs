@@ -25,7 +25,8 @@ Click the program name to navigate to its respective directory and learn more ab
   - [Prog1_LuckyNumber](Simple-CLI-Programs2/Prog1_LuckyNumber) *(Guess the Lucky Number Game)*
   - [Prog2_SevenDaysOfWeek](Simple-CLI-Programs2/Prog2_SevenDaysOfWeek) *(Day of the Week)*
   - [Prog3_NumbersToWords](Simple-CLI-Programs2/Prog3_NumbersToWords) *(Number to Words Converter)*
-
+  - [Prog4_Denominations](Simple-CLI-Programs2/Prog4_Denominations)
+    
 </details>
 
 
