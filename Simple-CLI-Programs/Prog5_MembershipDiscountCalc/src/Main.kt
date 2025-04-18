@@ -5,7 +5,7 @@ import java.text.NumberFormat
 
 fun main() {
     println("Welcome to Supermarket Checkout!")
-    val purchaseTotal = totalValidation("Enter your purchase total: $")
+    val purchaseTotal = totalValidation("Enter your purchase total: ")
     if (purchaseTotal > 1000) {
         val membership = isMember("Are you a member? [Y]Yes | [N]No : ")
         println(displayMsg(purchaseTotal, membership))
