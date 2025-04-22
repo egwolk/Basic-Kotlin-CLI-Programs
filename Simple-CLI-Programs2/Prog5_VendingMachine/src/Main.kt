@@ -1,7 +1,26 @@
 fun main() {
     val coins =  coinLoop()
     println("Your Coins: $coins")
+    val drinkChoice = drinkValid("""
+        Select a drink option
+        [a] Soda
+        [b] Water
+        [c] Juice
+        Your Choice: 
+    """.trimIndent())
 }
+fun drinkValid(prompt: String) :Char{
+    while (true) {
+        print(prompt)
+        val drink = readln().trim().lowercase()
+        when {
+            drink.length > 1 -> println("Error: Please enter one character only.")
+            !Regex("[abc]").matches(drink) -> println("Error: Please choose from the selection.")
+            else -> return drink[0]
+        }
+    }
+}
+
 fun coinLoop() :Int{
     var coin :Int
     var coins = 0
